@@ -4,7 +4,6 @@ from .TNTComplEx import TNTComplEx
 from .TPComplEx import TPComplEx
 
 from .MPComplEx import MPComplEx
-from .MPComplEx_COPS import MPComplExCOPS
 from .nMPComplEx import nMPComplEx
 
 __all__ = [
@@ -14,6 +13,5 @@ __all__ = [
     "TNTComplEx",
     "MPComplEx",
     "nMPComplEx",
-    "MPComplExCOPS",
 ]
     

@@ -20,8 +20,6 @@ def parse_args(args=None):
         "TNTComplEx",
         "TPComplEx",
         "MPComplEx",
-        "MPComplEx_COPS",
-        "nMPComplEx",
     ]
     parser.add_argument(
         "--random-seed", default=2024, type=int, help="init random seed"
